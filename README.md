@@ -6,7 +6,7 @@
 
 #### I’m looking forward to collaborating on Smart Contract Development
 
-#### As a senior developer with more than 7 years of rich experience, I 'm not limited to Programming Languages and Frameworks
+#### As a senior developer with more than 9 years of rich experience, I 'm not limited to Programming Languages and Frameworks
 
 ### Languages and Tools:
 [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/baron102/)](https://github.com/baron102/)
@@ -52,6 +52,21 @@
 <img align="center" alt="baron102's Github Stats" src="https://github-readme-stats.vercel.app/api?username=baron102&show_icons=true&hide_border=true" /><br /><br />
 
 ---
+
+<div align="center">
+
+<br/>
+<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula&private=true">
+<img height="150px" src="https://github-readme-stats.vercel.app/api?username=baron102&show_icons=true&theme=dracula&count_private=true&private=true">
+<br/>
+
+### Can you break my visitor count?
+
+<br />
+
+![Visitor Count](https://profile-counter.glitch.me/Shing-Ho/count.svg)
+
+</div>
 
 ### Connect with me:
 ##### baron2020victory@gmail.com
