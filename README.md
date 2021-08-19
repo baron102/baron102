@@ -50,7 +50,7 @@
 <div align="center">
 
 <br/>
-<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula&private=true">
+<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baron102&layout=compact&theme=dracula&private=true">
 <img height="150px" src="https://github-readme-stats.vercel.app/api?username=baron102&show_icons=true&theme=dracula&count_private=true&private=true">
 <br/>
 
