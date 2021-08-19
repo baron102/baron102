@@ -45,12 +45,6 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/baron102/)](https://github.com/baron102/)
 <br />
 
---- 
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baron102&theme=white" /> 
-
-<img align="center" alt="baron102's Github Stats" src="https://github-readme-stats.vercel.app/api?username=baron102&show_icons=true&hide_border=true" /><br /><br />
-
 ---
 
 <div align="center">
