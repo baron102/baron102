@@ -1,4 +1,4 @@
-👋 #Hi, I’m baron
+# Hi, I’m baron
 
 👀 ###I’m interested in Software Engineering
 
