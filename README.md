@@ -54,6 +54,7 @@
 ---
 
 ### Connect with me:
+##### baron2020victory@gmail.com
 
 [github]: https://github.com/baron102/
 [Email]: baron2020victory@gmail.com
