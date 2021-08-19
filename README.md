@@ -13,7 +13,7 @@
 [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/baron102/)](https://github.com/baron102/)
 [![C&C++](https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff&link=https://github.com/baron102/)](https://github.com/baron102/)
 
-[![Solidity](https://github.com/baron102/baron102/blob/master/solidity.png)](https://github.com/baron102/)
+[![Solidity](https://github.com/baron102/baron102/blob/main/solidity.png)](https://github.com/baron102/)
 
 
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/baron102/)](https://github.com/baron102/) 
