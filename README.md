@@ -6,7 +6,7 @@
 
 #### I’m looking forward to collaborating on Smart Contract Development
 
-#### As a senior developer with more than 9 years of rich experience, I 'm not limited to Programming Languages and Frameworks
+#### As a senior developer with more than 10 years of rich experience, I 'm not limited to Programming Languages and Frameworks
 
 ### Languages and Tools:
 [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/baron102/)](https://github.com/baron102/)
@@ -23,17 +23,14 @@
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/baron102/)](https://github.com/baron102/)
 
 [![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat&logo=react&logoColor=white&link=https://github.com/baron102/)](https://github.com/baron102/) 
-[![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white&link=https://github.com/baron102/)](https://github.com/baron102/) 
-[![VueJS](https://img.shields.io/badge/VueJS-41B883??style=flat&logo=vue.js&logoColor=white&link=https://github.com/baron102/)](https://github.com/baron102/) 
 
 [![Django](https://img.shields.io/badge/-django-black?style=flat&logo=django)](https://github.com/baron102/)
-[![DataScience](https://github.com/SvenCelin/SvenCelin/blob/master/Badges/datascience.png)](https://github.com/baron102/)
+
 [![ML](https://img.shields.io/badge/-Machine%20Learning-102230?style=flat)](https://github.com/baron102/)
 [![AI](https://github.com/SvenCelin/SvenCelin/blob/master/Badges/ai.png)](https://github.com/baron102/)
 
 [![Jira](https://img.shields.io/badge/-Jira-222222?style=flat&logo=jira-software&logoColor=white&logoColor=0052CC)](https://github.com/baron102/)
 [![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)](https://github.com/baron102/)
-[![TCP/IP](https://img.shields.io/badge/-TCP/IP-222222?style=flat&logo=cisco&logoColor=white)](https://github.com/baron102/)
 
 [![Sublime Text](http://img.shields.io/badge/-Sublime%20Text-3C4858?style=flat&logo=sublime-text)](https://github.com/baron102/)
 [![Visual Studio Code](https://img.shields.io/badge/-VSCode-444444?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://github.com/baron102/)
