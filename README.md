@@ -1,12 +1,12 @@
-# Hi, I’m baron
+# Hi, I’m Stephane Henri
 
 #### I’m interested in Software Engineering
 
-#### I’m currently focusing on Smart Contract
+#### Currently focusing on Smart Contract
 
-#### I’m looking forward to collaborating on Smart Contract Development
+#### Looking forward to collaborating on Smart Contract Development
 
-#### As a senior developer with more than 10 years of rich experience, I 'm not limited to Programming Languages and Frameworks
+#### Not limited to Programming Languages and Frameworks as a senior developer with more than 10 years of rich experience
 
 ### Languages and Tools:
 [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/baron102/)](https://github.com/baron102/)
