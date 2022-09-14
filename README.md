@@ -1,10 +1,10 @@
-# Hi, I’m Stephane Henri
+# Stephane Henri
 
-#### I’m interested in Software Engineering
+#### Interested in Software Engineering
 
-#### Currently focusing on Smart Contract
+#### Currently focusing on blockchain
 
-#### Looking forward to collaborating on Smart Contract Development
+#### Looking forward to collaborating on Smart Contract, DeFi, DApp, Web3
 
 #### Not limited to Programming Languages and Frameworks as a senior developer with more than 10 years of rich experience
 
