@@ -28,6 +28,7 @@ conditions
 
 [![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat&logo=react&logoColor=white&link=https://github.com/baron102/)](https://github.com/baron102/) 
 [![VueJS](https://img.shields.io/badge/-VueJS-green?style=flat&logo=vue.js&logoColor=white&link=https://github.com/baron102/)](https://github.com/baron102/) 
+[![Typescript](https://img.shields.io/badge/-Typescript-green?style=flat&logo=Typescript&logoColor=white&link=https://github.com/baron102/)](https://github.com/baron102/) 
 
 [![PHP](https://img.shields.io/badge/-PHP-black?style=flat&logo=php&link=https://github.com/baron102/)](https://github.com/baron102/)
 [![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat&logo=Laravel&link=https://github.com/baron102/)](https://github.com/baron102/)
@@ -50,6 +51,7 @@ conditions
 [![PyCharm](https://github.com/SvenCelin/SvenCelin/blob/master/Badges/pycharm.png)](https://github.com/baron102/)
 
 [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab&link=https://github.com/baron102/)](https://github.com/baron102/)
+[![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&link=https://github.com/baron102/)](https://github.com/baron102/) 
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/baron102/)](https://github.com/baron102/) 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/baron102/)](https://github.com/baron102/)
 <br />
