@@ -30,6 +30,17 @@ conditions
 [![VueJS](https://img.shields.io/badge/-VueJS-green?style=flat&logo=vue.js&logoColor=white&link=https://github.com/baron102/)](https://github.com/baron102/) 
 [![Typescript](https://img.shields.io/badge/-Typescript-532819?style=flat&logo=Typescript&logoColor=white&link=https://github.com/baron102/)](https://github.com/baron102/) 
 
+[![Web3](https://img.shields.io/badge/-Web3.js-61DAFB?style=flat&logo=web3&logoColor=white&link=https://github.com/baron102/)](https://github.com/baron102/) 
+[![Ethers](https://img.shields.io/badge/-Ethers.js-534355?style=flat&logo=ethers&logoColor=white&link=https://github.com/baron102/)](https://github.com/baron102/) 
+[![Wagmi](https://img.shields.io/badge/-Wagmi-973512?style=flat&logo=wagmi&logoColor=white&link=https://github.com/baron102/)](https://github.com/baron102/) 
+[![Smart Contract](https://img.shields.io/badge/-Smart Contract-136743?style=flat&logo=smart contract&logoColor=white&link=https://github.com/baron102/)](https://github.com/baron102/) 
+[![NFT](https://img.shields.io/badge/-NFT-582658?style=flat&logo=NFT&logoColor=white&link=https://github.com/baron102/)](https://github.com/baron102/) 
+[![Ethereum](https://img.shields.io/badge/-Ethereum-989875?style=flat&logo=Ethereum&logoColor=white&link=https://github.com/baron102/)](https://github.com/baron102/) 
+[![BSC](https://img.shields.io/badge/-BSC-352411?style=flat&logo=BSC&logoColor=white&link=https://github.com/baron102/)](https://github.com/baron102/) 
+[![Polygon](https://img.shields.io/badge/-Polygon-786431?style=flat&logo=Polygon&logoColor=white&link=https://github.com/baron102/)](https://github.com/baron102/) 
+[![Truffle](https://img.shields.io/badge/-Truffle-421323?style=flat&logo=Truffle&logoColor=white&link=https://github.com/baron102/)](https://github.com/baron102/) 
+[![Hardhat](https://img.shields.io/badge/-Hardhat-321312?style=flat&logo=Hardhat&logoColor=white&link=https://github.com/baron102/)](https://github.com/baron102/) 
+
 [![PHP](https://img.shields.io/badge/-PHP-black?style=flat&logo=php&link=https://github.com/baron102/)](https://github.com/baron102/)
 [![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat&logo=Laravel&link=https://github.com/baron102/)](https://github.com/baron102/)
 [![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-black?style=flat&logo=CodeIgniter&link=https://github.com/baron102/)](https://github.com/baron102/)
