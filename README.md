@@ -1,12 +1,15 @@
-# Highly Skilled Software Engineer
+# Full-Stack Blockchain Engineer
 
-#### Interested in Software Engineering
+#### Senior software engineer with 11+ years of experience in the full software development cycle
 
-#### Currently focusing on blockchain
+#### Highly adept in leading engineer teams to achieve software development upgrades and increase business
+efficiency while delivering world-class solutions to clients
 
-#### Looking forward to collaborating on Smart Contract, DeFi, DApp, Web3
+#### Well versed in various programming languages, frameworks and platforms, and having good experience in
+DevOps and team collaboration
 
-#### Not limited to Programming Languages and Frameworks as a senior developer with more than 10 years of rich experience
+#### A quick learner, hardworking, committed team player, proactive self-starter, capable of handling stressful
+conditions
 
 ### Languages and Tools:
 [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/baron102/)](https://github.com/baron102/)
@@ -21,8 +24,9 @@
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/baron102/)](https://github.com/baron102/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/baron102/)](https://github.com/baron102/)
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/baron102/)](https://github.com/baron102/)
-
+[![PHP Laravel & CI](https://img.shields.io/badge/-PHP-black?style=flat&logo=mysql&link=https://github.com/baron102/)](https://github.com/baron102/)
 [![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat&logo=react&logoColor=white&link=https://github.com/baron102/)](https://github.com/baron102/) 
+[![VueJS](https://img.shields.io/badge/-VueJS-61DAFB?style=flat&logo=react&logoColor=white&link=https://github.com/baron102/)](https://github.com/baron102/) 
 
 [![Django](https://img.shields.io/badge/-django-black?style=flat&logo=django)](https://github.com/baron102/)
 
