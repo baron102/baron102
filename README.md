@@ -1,4 +1,4 @@
-# Full-Stack Blockchain Engineer
+# Senior Full-Stack Engineer
 
 #### Senior software engineer with 11+ years of experience in the full software development cycle
 
@@ -17,6 +17,7 @@ conditions
 [![C&C++](https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff&link=https://github.com/baron102/)](https://github.com/baron102/)
 
 [![Solidity](https://github.com/baron102/baron102/blob/main/solidity.png)](https://github.com/baron102/)
+[![Golang](https://img.shields.io/badge/-golang-5127B6?style=flat&logo=css3&link=https://github.com/baron102/)](https://github.com/baron102/) 
 
 
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/baron102/)](https://github.com/baron102/) 
