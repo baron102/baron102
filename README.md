@@ -26,7 +26,7 @@ conditions
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/baron102/)](https://github.com/baron102/)
 [![PHP](https://img.shields.io/badge/-PHP-black?style=flat&logo=php&link=https://github.com/baron102/)](https://github.com/baron102/)
 [![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat&logo=react&logoColor=white&link=https://github.com/baron102/)](https://github.com/baron102/) 
-[![VueJS](https://img.shields.io/badge/-VueJS-61DAFB?style=flat&logo=vue&logoColor=white&link=https://github.com/baron102/)](https://github.com/baron102/) 
+[![VueJS](https://img.shields.io/badge/-VueJS-61DAFB?style=flat&logo=vue.js&logoColor=white&link=https://github.com/baron102/)](https://github.com/baron102/) 
 
 [![Django](https://img.shields.io/badge/-django-black?style=flat&logo=django)](https://github.com/baron102/)
 
