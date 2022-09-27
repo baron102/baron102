@@ -13,7 +13,7 @@ conditions
 
 ### Languages and Tools:
 [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/baron102/)](https://github.com/baron102/)
-[![Java](https://github.com/baron102/baron102/blob/main/java_logo_icon_168609.png)](https://github.com/baron102/)
+[![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=java&link=https://github.com/baron102/)](https://github.com/baron102/)
 [![C&C++](https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff&link=https://github.com/baron102/)](https://github.com/baron102/)
 
 [![Solidity](https://github.com/baron102/baron102/blob/main/solidity.png)](https://github.com/baron102/)
