@@ -39,7 +39,9 @@ conditions
 [![ML](https://img.shields.io/badge/-Machine%20Learning-102230?style=flat)](https://github.com/baron102/)
 [![AI](https://github.com/SvenCelin/SvenCelin/blob/master/Badges/ai.png)](https://github.com/baron102/)
 
+[![AWS](https://img.shields.io/badge/-AWS-323232?style=flat&logo=aws&logoColor=white&logoColor=0052CC)](https://github.com/baron102/)
 [![Jira](https://img.shields.io/badge/-Jira-222222?style=flat&logo=jira-software&logoColor=white&logoColor=0052CC)](https://github.com/baron102/)
+[![Jenkins](https://img.shields.io/badge/-Jenkins-424242?style=flat&logo=jenkins-software&logoColor=white&logoColor=0052CC)](https://github.com/baron102/)
 [![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)](https://github.com/baron102/)
 
 [![Sublime Text](http://img.shields.io/badge/-Sublime%20Text-3C4858?style=flat&logo=sublime-text)](https://github.com/baron102/)
