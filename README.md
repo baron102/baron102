@@ -17,7 +17,7 @@ conditions
 [![C&C++](https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff&link=https://github.com/baron102/)](https://github.com/baron102/)
 
 [![Solidity](https://github.com/baron102/baron102/blob/main/solidity.png)](https://github.com/baron102/)
-[![Golang](https://img.shields.io/badge/-golang-5127B6?style=flat&logo=css3&link=https://github.com/baron102/)](https://github.com/baron102/) 
+[![Golang](https://img.shields.io/badge/-Golang-5127B6?style=flat&logo=golang&link=https://github.com/baron102/)](https://github.com/baron102/) 
 
 
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/baron102/)](https://github.com/baron102/) 
@@ -34,6 +34,7 @@ conditions
 [![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-black?style=flat&logo=CodeIgniter&link=https://github.com/baron102/)](https://github.com/baron102/)
 
 [![Django](https://img.shields.io/badge/-django-black?style=flat&logo=django)](https://github.com/baron102/)
+[![Flask](https://img.shields.io/badge/-Flask-gray?style=flat&logo=flask)](https://github.com/baron102/)
 
 [![ML](https://img.shields.io/badge/-Machine%20Learning-102230?style=flat)](https://github.com/baron102/)
 [![AI](https://github.com/SvenCelin/SvenCelin/blob/master/Badges/ai.png)](https://github.com/baron102/)
