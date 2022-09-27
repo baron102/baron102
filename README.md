@@ -45,7 +45,7 @@ conditions
 [![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat&logo=Laravel&link=https://github.com/baron102/)](https://github.com/baron102/)
 [![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-black?style=flat&logo=CodeIgniter&link=https://github.com/baron102/)](https://github.com/baron102/)
 
-[![Django](https://img.shields.io/badge/-django-black?style=flat&logo=django)](https://github.com/baron102/)
+[![Django](https://img.shields.io/badge/-Django-black?style=flat&logo=django)](https://github.com/baron102/)
 [![Flask](https://img.shields.io/badge/-Flask-gray?style=flat&logo=flask)](https://github.com/baron102/)
 
 [![ML](https://img.shields.io/badge/-Machine%20Learning-102230?style=flat)](https://github.com/baron102/)
