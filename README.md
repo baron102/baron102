@@ -1,14 +1,14 @@
 # Senior Software Engineer
 
-#### Senior software engineer with 10+ years of experience in the full software development cycle
+#### - Senior software engineer with 10+ years of experience in the full software development cycle
 
-#### Highly adept in leading engineer teams to achieve software development upgrades and increase business
+#### - Highly adept in leading engineer teams to achieve software development upgrades and increase business
 efficiency while delivering world-class solutions to clients
 
-#### Well versed in various programming languages, frameworks and platforms, and having good experience in
+#### - Well versed in various programming languages, frameworks and platforms, and having good experience in
 DevOps and team collaboration
 
-#### A quick learner, hardworking, committed team player, proactive self-starter, capable of handling stressful
+#### - A quick learner, hardworking, committed team player, proactive self-starter, capable of handling stressful
 conditions
 
 ### Languages and Tools:
