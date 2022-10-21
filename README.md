@@ -12,6 +12,18 @@ DevOps and team collaboration
 conditions
 
 ### Languages and Tools:
+[![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat&logo=react&logoColor=white&link=https://github.com/baron102/)](https://github.com/baron102/) 
+[![VueJS](https://img.shields.io/badge/-VueJS-green?style=flat&logo=vue.js&logoColor=white&link=https://github.com/baron102/)](https://github.com/baron102/) 
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/baron102/)](https://github.com/baron102/)
+[![Typescript](https://img.shields.io/badge/-Typescript-532819?style=flat&logo=Typescript&logoColor=white&link=https://github.com/baron102/)](https://github.com/baron102/) 
+
+[![Node.js](https://img.shields.io/badge/-Node.js-285311?style=flat&logo=Node.js&logoColor=green&link=https://github.com/baron102/)](https://github.com/baron102/)
+[![Express.js](https://img.shields.io/badge/-Express.js-138211?style=flat&logo=Express.js&logoColor=yellow&link=https://github.com/baron102/)](https://github.com/baron102/)
+
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/baron102/)](https://github.com/baron102/) 
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/baron102/)](https://github.com/baron102/) 
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/baron102/)](https://github.com/baron102/)
+
 [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/baron102/)](https://github.com/baron102/)
 [![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=java&link=https://github.com/baron102/)](https://github.com/baron102/)
 [![C&C++](https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff&link=https://github.com/baron102/)](https://github.com/baron102/)
@@ -19,17 +31,7 @@ conditions
 [![Solidity](https://github.com/baron102/baron102/blob/main/solidity.png)](https://github.com/baron102/)
 [![Golang](https://img.shields.io/badge/-Golang-5127B6?style=flat&logo=go&link=https://github.com/baron102/)](https://github.com/baron102/) 
 
-
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/baron102/)](https://github.com/baron102/) 
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/baron102/)](https://github.com/baron102/) 
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/baron102/)](https://github.com/baron102/)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/baron102/)](https://github.com/baron102/)
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/baron102/)](https://github.com/baron102/)
-
-[![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat&logo=react&logoColor=white&link=https://github.com/baron102/)](https://github.com/baron102/) 
-[![VueJS](https://img.shields.io/badge/-VueJS-green?style=flat&logo=vue.js&logoColor=white&link=https://github.com/baron102/)](https://github.com/baron102/) 
-[![Javascript](https://img.shields.io/badge/-Javascript-blue?style=flat&logo=Javascript&logoColor=yellow&link=https://github.com/baron102/)](https://github.com/baron102/) 
-[![Typescript](https://img.shields.io/badge/-Typescript-532819?style=flat&logo=Typescript&logoColor=white&link=https://github.com/baron102/)](https://github.com/baron102/) 
 
 [![Web3](https://img.shields.io/badge/-Web3.js-61DAFB?style=flat&logo=web3&logoColor=white&link=https://github.com/baron102/)](https://github.com/baron102/) 
 [![Ethers](https://img.shields.io/badge/-Ethers.js-534355?style=flat&logo=ethers&logoColor=white&link=https://github.com/baron102/)](https://github.com/baron102/) 
