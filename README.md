@@ -1,4 +1,4 @@
-# Senior Full-Stack Engineer
+# Senior Software Engineer
 
 #### Senior software engineer with 10+ years of experience in the full software development cycle
 
