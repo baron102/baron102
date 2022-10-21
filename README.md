@@ -71,6 +71,7 @@ conditions
 
 ### >>> OS
 [![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)](https://github.com/baron102/)
+[![Windows](https://img.shields.io/badge/-Windows-532311?style=flat&logo=windows&logoColor=1F1624)](https://github.com/baron102/)
 
 ### >>> IDE:
 [![Sublime Text](http://img.shields.io/badge/-Sublime%20Text-3C4858?style=flat&logo=sublime-text)](https://github.com/baron102/)
