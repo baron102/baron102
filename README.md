@@ -24,17 +24,6 @@ conditions
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/baron102/)](https://github.com/baron102/) 
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/baron102/)](https://github.com/baron102/)
 
-[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/baron102/)](https://github.com/baron102/)
-[![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=java&link=https://github.com/baron102/)](https://github.com/baron102/)
-[![C&C++](https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff&link=https://github.com/baron102/)](https://github.com/baron102/)
-
-[![Solidity](https://github.com/baron102/baron102/blob/main/solidity.png)](https://github.com/baron102/)
-[![Golang](https://img.shields.io/badge/-Golang-5127B6?style=flat&logo=go&link=https://github.com/baron102/)](https://github.com/baron102/) 
-
-[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/baron102/)](https://github.com/baron102/)
-[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-brown?style=flat&logo=postgresql&link=https://github.com/baron102/)](https://github.com/baron102/)
-[![MongoDB](https://img.shields.io/badge/-MongoDB-yellow?style=flat&logo=mongodb&link=https://github.com/baron102/)](https://github.com/baron102/)
-
 [![Web3](https://img.shields.io/badge/-Web3.js-61DAFB?style=flat&logo=web3&logoColor=white&link=https://github.com/baron102/)](https://github.com/baron102/) 
 [![Ethers](https://img.shields.io/badge/-Ethers.js-534355?style=flat&logo=ethers&logoColor=white&link=https://github.com/baron102/)](https://github.com/baron102/) 
 [![Wagmi](https://img.shields.io/badge/-Wagmi-973512?style=flat&logo=wagmi&logoColor=white&link=https://github.com/baron102/)](https://github.com/baron102/) 
@@ -45,6 +34,17 @@ conditions
 [![Polygon](https://img.shields.io/badge/-Polygon-786431?style=flat&logo=Polygon&logoColor=white&link=https://github.com/baron102/)](https://github.com/baron102/) 
 [![Truffle](https://img.shields.io/badge/-Truffle-421323?style=flat&logo=Truffle&logoColor=white&link=https://github.com/baron102/)](https://github.com/baron102/) 
 [![Hardhat](https://img.shields.io/badge/-Hardhat-321312?style=flat&logo=Hardhat&logoColor=white&link=https://github.com/baron102/)](https://github.com/baron102/) 
+
+[![Solidity](https://github.com/baron102/baron102/blob/main/solidity.png)](https://github.com/baron102/)
+[![Golang](https://img.shields.io/badge/-Golang-5127B6?style=flat&logo=go&link=https://github.com/baron102/)](https://github.com/baron102/) 
+
+[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/baron102/)](https://github.com/baron102/)
+[![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=java&link=https://github.com/baron102/)](https://github.com/baron102/)
+[![C&C++](https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff&link=https://github.com/baron102/)](https://github.com/baron102/)
+
+[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/baron102/)](https://github.com/baron102/)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-brown?style=flat&logo=postgresql&link=https://github.com/baron102/)](https://github.com/baron102/)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-yellow?style=flat&logo=mongodb&link=https://github.com/baron102/)](https://github.com/baron102/)
 
 [![PHP](https://img.shields.io/badge/-PHP-black?style=flat&logo=php&link=https://github.com/baron102/)](https://github.com/baron102/)
 [![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat&logo=Laravel&link=https://github.com/baron102/)](https://github.com/baron102/)
