@@ -28,6 +28,7 @@ conditions
 
 [![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat&logo=react&logoColor=white&link=https://github.com/baron102/)](https://github.com/baron102/) 
 [![VueJS](https://img.shields.io/badge/-VueJS-green?style=flat&logo=vue.js&logoColor=white&link=https://github.com/baron102/)](https://github.com/baron102/) 
+[![Javascript](https://img.shields.io/badge/-Javascript-blue?style=flat&logo=Javascript&logoColor=yellow&link=https://github.com/baron102/)](https://github.com/baron102/) 
 [![Typescript](https://img.shields.io/badge/-Typescript-532819?style=flat&logo=Typescript&logoColor=white&link=https://github.com/baron102/)](https://github.com/baron102/) 
 
 [![Web3](https://img.shields.io/badge/-Web3.js-61DAFB?style=flat&logo=web3&logoColor=white&link=https://github.com/baron102/)](https://github.com/baron102/) 
