@@ -32,6 +32,8 @@ conditions
 [![Golang](https://img.shields.io/badge/-Golang-5127B6?style=flat&logo=go&link=https://github.com/baron102/)](https://github.com/baron102/) 
 
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/baron102/)](https://github.com/baron102/)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-brown?style=flat&logo=postgresql&link=https://github.com/baron102/)](https://github.com/baron102/)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-yellow?style=flat&logo=mongodb&link=https://github.com/baron102/)](https://github.com/baron102/)
 
 [![Web3](https://img.shields.io/badge/-Web3.js-61DAFB?style=flat&logo=web3&logoColor=white&link=https://github.com/baron102/)](https://github.com/baron102/) 
 [![Ethers](https://img.shields.io/badge/-Ethers.js-534355?style=flat&logo=ethers&logoColor=white&link=https://github.com/baron102/)](https://github.com/baron102/) 
