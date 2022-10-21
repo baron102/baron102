@@ -63,6 +63,11 @@ conditions
 [![AWS](https://img.shields.io/badge/-AWS-323232?style=flat&logo=aws&logoColor=white&logoColor=0052CC)](https://github.com/baron102/)
 [![Jira](https://img.shields.io/badge/-Jira-222222?style=flat&logo=jira-software&logoColor=white&logoColor=0052CC)](https://github.com/baron102/)
 [![Jenkins](https://img.shields.io/badge/-Jenkins-424242?style=flat&logo=jenkins-software&logoColor=white&logoColor=0052CC)](https://github.com/baron102/)
+[![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab&link=https://github.com/baron102/)](https://github.com/baron102/)
+[![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&link=https://github.com/baron102/)](https://github.com/baron102/) 
+[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/baron102/)](https://github.com/baron102/) 
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/baron102/)](https://github.com/baron102/)
+
 
 ### >>> OS
 [![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)](https://github.com/baron102/)
@@ -73,10 +78,6 @@ conditions
 [![Visual Studio](https://github.com/SvenCelin/SvenCelin/blob/master/Badges/visualstudio.png)](https://github.com/baron102/)
 [![PyCharm](https://github.com/SvenCelin/SvenCelin/blob/master/Badges/pycharm.png)](https://github.com/baron102/)
 
-[![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab&link=https://github.com/baron102/)](https://github.com/baron102/)
-[![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&link=https://github.com/baron102/)](https://github.com/baron102/) 
-[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/baron102/)](https://github.com/baron102/) 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/baron102/)](https://github.com/baron102/)
 <br />
 
 ---
