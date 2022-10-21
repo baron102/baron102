@@ -11,7 +11,7 @@ DevOps and team collaboration
 #### - A quick learner, hardworking, committed team player, proactive self-starter, capable of handling stressful
 conditions
 
-### Languages and Tools:
+### >>> Languages and Tools:
 [![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat&logo=react&logoColor=white&link=https://github.com/baron102/)](https://github.com/baron102/) 
 [![VueJS](https://img.shields.io/badge/-VueJS-green?style=flat&logo=vue.js&logoColor=white&link=https://github.com/baron102/)](https://github.com/baron102/) 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/baron102/)](https://github.com/baron102/)
@@ -35,7 +35,7 @@ conditions
 [![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=java&link=https://github.com/baron102/)](https://github.com/baron102/)
 [![C&C++](https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff&link=https://github.com/baron102/)](https://github.com/baron102/)
 
-### Blockchain:
+### >>> Blockchain:
 [![Web3](https://img.shields.io/badge/-Web3.js-61DAFB?style=flat&logo=web3&logoColor=white&link=https://github.com/baron102/)](https://github.com/baron102/) 
 [![Ethers](https://img.shields.io/badge/-Ethers.js-534355?style=flat&logo=ethers&logoColor=white&link=https://github.com/baron102/)](https://github.com/baron102/) 
 [![Wagmi](https://img.shields.io/badge/-Wagmi-973512?style=flat&logo=wagmi&logoColor=white&link=https://github.com/baron102/)](https://github.com/baron102/) 
@@ -50,24 +50,24 @@ conditions
 [![Solidity](https://github.com/baron102/baron102/blob/main/solidity.png)](https://github.com/baron102/)
 [![Golang](https://img.shields.io/badge/-Golang-5127B6?style=flat&logo=go&link=https://github.com/baron102/)](https://github.com/baron102/) 
 
-### Database:
+### >>> Database:
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/baron102/)](https://github.com/baron102/)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-brown?style=flat&logo=postgresql&link=https://github.com/baron102/)](https://github.com/baron102/)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-yellow?style=flat&logo=mongodb&link=https://github.com/baron102/)](https://github.com/baron102/)
 
-### AI/ML:
+### >>> AI/ML:
 [![ML](https://img.shields.io/badge/-Machine%20Learning-102230?style=flat)](https://github.com/baron102/)
 [![AI](https://github.com/SvenCelin/SvenCelin/blob/master/Badges/ai.png)](https://github.com/baron102/)
 
-### VCS/DevOps:
+### >>> VCS/DevOps/Cloud:
 [![AWS](https://img.shields.io/badge/-AWS-323232?style=flat&logo=aws&logoColor=white&logoColor=0052CC)](https://github.com/baron102/)
 [![Jira](https://img.shields.io/badge/-Jira-222222?style=flat&logo=jira-software&logoColor=white&logoColor=0052CC)](https://github.com/baron102/)
 [![Jenkins](https://img.shields.io/badge/-Jenkins-424242?style=flat&logo=jenkins-software&logoColor=white&logoColor=0052CC)](https://github.com/baron102/)
 
-### OS
+### >>> OS
 [![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)](https://github.com/baron102/)
 
-### IDE:
+### >>> IDE:
 [![Sublime Text](http://img.shields.io/badge/-Sublime%20Text-3C4858?style=flat&logo=sublime-text)](https://github.com/baron102/)
 [![Visual Studio Code](https://img.shields.io/badge/-VSCode-444444?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://github.com/baron102/)
 [![Visual Studio](https://github.com/SvenCelin/SvenCelin/blob/master/Badges/visualstudio.png)](https://github.com/baron102/)
