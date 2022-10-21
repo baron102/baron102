@@ -20,16 +20,17 @@ conditions
 [![Node.js](https://img.shields.io/badge/-Node.js-285311?style=flat&logo=Node.js&logoColor=green&link=https://github.com/baron102/)](https://github.com/baron102/)
 [![Express.js](https://img.shields.io/badge/-Express.js-138211?style=flat&logo=Express.js&logoColor=yellow&link=https://github.com/baron102/)](https://github.com/baron102/)
 
+[![Django](https://img.shields.io/badge/-Django-black?style=flat&logo=django)](https://github.com/baron102/)
+[![Flask](https://img.shields.io/badge/-Flask-gray?style=flat&logo=flask)](https://github.com/baron102/)
+
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/baron102/)](https://github.com/baron102/) 
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/baron102/)](https://github.com/baron102/) 
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/baron102/)](https://github.com/baron102/)
+[![Tailwind CSS](https://img.shields.io/badge/-Tailwind-3D5D7C?style=flat&logo=tailwind&link=https://github.com/baron102/)](https://github.com/baron102/)
 
 [![PHP](https://img.shields.io/badge/-PHP-black?style=flat&logo=php&link=https://github.com/baron102/)](https://github.com/baron102/)
 [![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat&logo=Laravel&link=https://github.com/baron102/)](https://github.com/baron102/)
 [![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-black?style=flat&logo=CodeIgniter&link=https://github.com/baron102/)](https://github.com/baron102/)
-
-[![Django](https://img.shields.io/badge/-Django-black?style=flat&logo=django)](https://github.com/baron102/)
-[![Flask](https://img.shields.io/badge/-Flask-gray?style=flat&logo=flask)](https://github.com/baron102/)
 
 [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/baron102/)](https://github.com/baron102/)
 [![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=java&link=https://github.com/baron102/)](https://github.com/baron102/)
