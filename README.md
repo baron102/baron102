@@ -28,10 +28,6 @@ conditions
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/baron102/)](https://github.com/baron102/)
 [![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-3D5D7C?style=flat&logo=tailwindcss&link=https://github.com/baron102/)](https://github.com/baron102/)
 
-[![PHP](https://img.shields.io/badge/-PHP-black?style=flat&logo=php&link=https://github.com/baron102/)](https://github.com/baron102/)
-[![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat&logo=Laravel&link=https://github.com/baron102/)](https://github.com/baron102/)
-[![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-black?style=flat&logo=CodeIgniter&link=https://github.com/baron102/)](https://github.com/baron102/)
-
 [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/baron102/)](https://github.com/baron102/)
 [![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=java&link=https://github.com/baron102/)](https://github.com/baron102/)
 [![C&C++](https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff&link=https://github.com/baron102/)](https://github.com/baron102/)
@@ -55,6 +51,8 @@ conditions
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/baron102/)](https://github.com/baron102/)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-brown?style=flat&logo=postgresql&link=https://github.com/baron102/)](https://github.com/baron102/)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-yellow?style=flat&logo=mongodb&link=https://github.com/baron102/)](https://github.com/baron102/)
+[![Firebase](https://img.shields.io/badge/-MongoDB-green?style=flat&logo=firebase&link=https://github.com/baron102/)](https://github.com/baron102/)
+[![Supabase](https://img.shields.io/badge/-MongoDB-white?style=flat&logo=supabase&link=https://github.com/baron102/)](https://github.com/baron102/)
 
 ### >>> AI/ML:
 [![ML](https://img.shields.io/badge/-Machine%20Learning-102230?style=flat)](https://github.com/baron102/)
