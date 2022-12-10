@@ -51,8 +51,8 @@ conditions
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/baron102/)](https://github.com/baron102/)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-brown?style=flat&logo=postgresql&link=https://github.com/baron102/)](https://github.com/baron102/)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-yellow?style=flat&logo=mongodb&link=https://github.com/baron102/)](https://github.com/baron102/)
-[![Firebase](https://img.shields.io/badge/-MongoDB-green?style=flat&logo=firebase&link=https://github.com/baron102/)](https://github.com/baron102/)
-[![Supabase](https://img.shields.io/badge/-MongoDB-white?style=flat&logo=supabase&link=https://github.com/baron102/)](https://github.com/baron102/)
+[![Firebase](https://img.shields.io/badge/-Firebase-green?style=flat&logo=firebase&link=https://github.com/baron102/)](https://github.com/baron102/)
+[![Supabase](https://img.shields.io/badge/-Supabase-white?style=flat&logo=supabase&link=https://github.com/baron102/)](https://github.com/baron102/)
 
 ### >>> AI/ML:
 [![ML](https://img.shields.io/badge/-Machine%20Learning-102230?style=flat)](https://github.com/baron102/)
