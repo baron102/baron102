@@ -14,6 +14,7 @@ conditions
 ### >>> Languages and Tools:
 [![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat&logo=react&logoColor=white&link=https://github.com/baron102/)](https://github.com/baron102/) 
 [![VueJS](https://img.shields.io/badge/-VueJS-green?style=flat&logo=vue.js&logoColor=white&link=https://github.com/baron102/)](https://github.com/baron102/) 
+
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/baron102/)](https://github.com/baron102/)
 [![Typescript](https://img.shields.io/badge/-Typescript-532819?style=flat&logo=Typescript&logoColor=white&link=https://github.com/baron102/)](https://github.com/baron102/) 
 
