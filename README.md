@@ -13,6 +13,8 @@ conditions
 
 ### >>> Languages and Tools:
 [![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat&logo=react&logoColor=white&link=https://github.com/baron102/)](https://github.com/baron102/) 
+[![NextJS](https://img.shields.io/badge/-NextJS-16ADFB?style=flat&logo=nextjs&logoColor=green&link=https://github.com/baron102/)](https://github.com/baron102/) 
+[![AstroJS](https://img.shields.io/badge/-AstroJS-65DF0B?style=flat&logo=astro&logoColor=pink&link=https://github.com/baron102/)](https://github.com/baron102/) 
 [![VueJS](https://img.shields.io/badge/-VueJS-green?style=flat&logo=vue.js&logoColor=white&link=https://github.com/baron102/)](https://github.com/baron102/) 
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/baron102/)](https://github.com/baron102/)
