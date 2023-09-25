@@ -101,10 +101,10 @@ conditions
 </div>
 
 ### Connect with me:
-##### baron2020victory@gmail.com
+##### midas5p26@gmail.com
 
 [github]: https://github.com/baron102/
-[Email]: baron2020victory@gmail.com
+[Email]: midas5p26@gmail.com
 
 <!---
 baron102/baron102 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
